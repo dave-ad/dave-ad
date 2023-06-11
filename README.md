@@ -1,8 +1,8 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+<!-- [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io) -->
 
 <h1 align="center">Hi 👋, I'm David Aderibigbe</h1>
 <h3 align="center">Digital Craftsman (Developer)</h3>
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+<!-- <img align="right" alt="coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dave-ad&label=Profile%20views&color=0e75b6&style=flat" alt="dave-ad" /> </p>
 
