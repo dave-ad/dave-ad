@@ -77,7 +77,7 @@
 ## <img src="https://media2.giphy.com/media/numE3A55vbpBuDCxnA/giphy.gif?cid=ecf05e47rze9471w0iriay9ubhrvdmam2cbwpobzooqnsopa&rid=giphy.gif&ct=s" width="40"> &nbsp; **Connect with Me !! 🤝** ️
 <p align="left">
 <a href="https://twitter.com/_dave_ad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="http.ad" height="30" width="40" /></a>
-<a href="/https://www.linkedin.com/in/david-aderibigbe-61b7b2236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/david-aderibigbe-61b7b2236/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/david-aderibigbe-61b7b2236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/david-aderibigbe-61b7b2236/" height="30" width="40" /></a>
 </p>
 
 <!-- Github Trophy -->
