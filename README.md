@@ -1,7 +1,7 @@
 <!-- [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io) -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dave-ad&label=Profile%20views&color=0e75b6&style=flat" alt="dave-ad" /> </p>
 
-<h1 align="center">Hi <img src="https://media4.giphy.com/media/RPukqDohL55Eo6Z38X/giphy.gif?cid=ecf05e47azgn9v1va67meuuf4d39nj3kwgp8uqwel58w2yn9&rid=giphy.gif&ct=s" width="40">, I'm David Aderibigbe</h1>
+<h1 align="center">Hi <!--<img src="https://media4.giphy.com/media/RPukqDohL55Eo6Z38X/giphy.gif?cid=ecf05e47azgn9v1va67meuuf4d39nj3kwgp8uqwel58w2yn9&rid=giphy.gif&ct=s" width="40">-->, I'm David Aderibigbe</h1>
 <h3 align="center">Digital Craftsman (Developer)</h3>
 <P>Motivated developer with a strong foundation in C# and Python programming and a passion for creating efficient and scalable web applications. Eager to contribute to dynamic development teams and continue learning and growing in the field of software development.</P>
 <!-- <img align="right" alt="coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"> -->
@@ -17,7 +17,7 @@
 - 😄 I love exploring and learning new skills, as well as implementing them in my projects.
 - 📫 How to reach me **davidaderibigbe47@gmail.com**
 - 👨‍💻 All of my projects are available at [dave-ad](https://github.com/dave-ad)
-- 💬 Ask me about **C# | Dotnet Framework**
+- 💬 Ask me about **C# | Dotnet Framework | Python**
 <!-- - ⚡ Fun fact I also love to listen to music while coding. -->
 </br>
 
@@ -31,7 +31,7 @@
 <!-- <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>	&nbsp; -->
 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 	&nbsp;
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
+  <!-- <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> -->
 <!--    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> -->
  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
@@ -51,6 +51,7 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>	&nbsp;
 <a href="https://github.com/dave-ad" target="_blank">
 <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="40" height="40" style="vertical-align:top; margin:4px"></a>
+<a href="https://www.microsoft.com/en-us/sql-server/" target="_blank" rel="noreferrer"> <img src="https://banner2.cleanpng.com/20180614/sg/kisspng-microsoft-sql-server-sql-server-management-studio-transactional-analysis-5b2207401c5992.0038138215289567361161.jpg" alt="postman" width="40" height="40"/> </a> 	&nbsp;
 <!-- <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 	&nbsp; -->
 <!--  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> -->
 <!--  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> -->
