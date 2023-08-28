@@ -13,11 +13,11 @@
 
 - 🔭 I’m currently working on my Backend development skills.
 - 🌱 I’m currently learning **ASP.Net core (C#)**
-- 👯 I’m looking to collaborate on any open source projects using C#/Python.
-- 😄 I love exploring and learning new skills as well as implement those in my projects.
+- 👯 I’m looking to collaborate on any open-source projects using C# or Python.
+- 😄 I love exploring and learning new skills, as well as implementing them in my projects.
 - 📫 How to reach me **davidaderibigbe47@gmail.com**
 - 👨‍💻 All of my projects are available at [dave-ad](https://github.com/dave-ad)
-- 💬 Ask me about **C# | Dotnet Framework | Python | Django**
+- 💬 Ask me about **C# | Dotnet Framework**
 <!-- - ⚡ Fun fact I also love to listen to music while coding. -->
 </br>
 
