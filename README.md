@@ -3,6 +3,7 @@
 
 <h1 align="center">Hi <img src="https://media4.giphy.com/media/RPukqDohL55Eo6Z38X/giphy.gif?cid=ecf05e47azgn9v1va67meuuf4d39nj3kwgp8uqwel58w2yn9&rid=giphy.gif&ct=s" width="40">, I'm David Aderibigbe</h1>
 <h3 align="center">Digital Craftsman (Developer)</h3>
+<P>Motivated developer with a strong foundation in C# and Python programming and a passion for creating efficient and scalable web applications. Eager to contribute to dynamic development teams and continue learning and growing in the field of software development.</P>
 <!-- <img align="right" alt="coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"> -->
 
 
