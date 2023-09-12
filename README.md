@@ -52,6 +52,7 @@
 <a href="https://github.com/dave-ad" target="_blank">
 <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="40" height="40" style="vertical-align:top; margin:4px"></a>
 <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank" rel="noreferrer"> <img src="https://banner2.cleanpng.com/20180614/sg/kisspng-microsoft-sql-server-sql-server-management-studio-transactional-analysis-5b2207401c5992.0038138215289567361161.jpg" alt="postman" width="40" height="40"/> </a> 	&nbsp;
+<a href="https://https://www.syncfusion.com" target="_blank" rel="noreferrer"> <img src="https://cdn.syncfusion.com/content/images/company-logos/Syncfusion_Logo_Image.png" alt="postman" width="60" height="50"/> </a> 	&nbsp;
 <!-- <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 	&nbsp; -->
 <!--  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> -->
 <!--  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> -->
