@@ -12,7 +12,7 @@
 ## <img src="https://media2.giphy.com/media/z9vxfIMzxbTaGwBkc5/giphy_s.gif?cid=ecf05e47cjnt33447pqnhksb17ve7x5zi6bsr2dagkvtdyvh&rid=giphy_s.gif&ct=s" width="40"> &nbsp; **About me**
 
 - 🔭 I’m currently working on my Backend development skills.
-- 🌱 I’m currently learning **ASP.Net core (C#)**
+- 🌱 I’m currently learning **ASP.Net core Web API(C#)**
 - 👯 I’m looking to collaborate on any open-source projects using C# or Python.
 - 😄 I love exploring and learning new skills, as well as implementing them in my projects.
 - 📫 How to reach me **davidaderibigbe47@gmail.com**
