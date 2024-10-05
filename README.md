@@ -11,8 +11,8 @@
 
 ## **About me**
 
-- 🔭 I’m currently working on **#30DaysOfPython**.
-- 🌱 I’m currently learning **JavaScript**.
+<!-- - 🔭 I’m currently working on **#30DaysOfPython**. -->
+- 🌱 I’m currently learning **JavaScript/Typescript**.
 - 👯 I’m looking to collaborate on any open-source.
 - 💻 I love creating interactive websites.
 - 😄 I love exploring and learning new skills, as well as implementing them in my projects.
