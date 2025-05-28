@@ -24,7 +24,7 @@ Always curious. Always building.
 - 😄 Always exploring new skills and putting them straight into action.
 - 💬 Hit me up if you want to talk **TypeScript, Node.js, .NET, or JavaScript** in general.
 - 📫 Reach me at **davidaderibigbe47@gmail.com**
-- 👨‍💻 Check out all my projects here:[dave-ad](https://github.com/dave-ad)
+- 👨‍💻 Check out all my projects here: [dave-ad](https://github.com/dave-ad)
 <!-- - 💻 Passionate about crafting interactive, user-friendly websites. -->
 <!-- - ⚡ Fun fact I also love to listen to music while coding. -->
 </br>
