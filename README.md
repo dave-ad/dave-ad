@@ -5,20 +5,27 @@
 <h1 align="center">Hi, I'm David Aderibigbe</h1>
 <h3 align="center">Digital Craftsman (Developer)</h3>
 <P>
-	I am a motivated developer with a strong foundation in C# and Python programming, complemented by a strong skill set in web development with Wix. I am passionate about building efficient, scalable web applications and thrive in collaborative environments. I am eager to contribute to innovative development teams and I am committed to continuous learning and growth in the ever-evolving field of software development.
+	Hey, I’m David—a software developer who loves turning ideas into real, working products.
+I care about smart systems, smooth user experiences, and making sure the things we build actually work for people.
+
+I’ve worked across different stacks, .NET, Node.js, TypeScript, JavaScript, Express, Next.js, and I've also dabbled in automation, cleaned up messy workflows, and even helped teams make sense of SharePoint (yes, really).
+Outside of the code, I’m big on collaboration, open-source, and constantly leveling up.
+
+Always curious. Always building.
 </P>
 <p align="center"> <img alt="coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"> </p>
 
 ## **About me**
 
 <!-- - 🔭 I’m currently working on **#30DaysOfPython**. -->
-- 🌱 I’m currently learning **JavaScript/Typescript**.
-- 👯 I’m looking to collaborate on any open-source.
-- 💻 I love creating interactive websites.
-- 😄 I love exploring and learning new skills, as well as implementing them in my projects.
-- 📫 How to reach me **davidaderibigbe47@gmail.com**
-- 👨‍💻 All of my projects are available at [dave-ad](https://github.com/dave-ad)
-- 💬 Ask me about **C# | Dotnet Framework | Python**
+- 🌱 Currently leveling up in **TypeScript, JavaScript, Node.js**, and the whole modern web stack.
+- 👯 Looking to collaborate on open-source projects that push boundaries and solve real problems.
+- ⚡ I build fast, scalable backends and smooth, interactive frontends that just work.
+- 😄 Always exploring new skills and putting them straight into action.
+- 💬 Hit me up if you want to talk **TypeScript, Node.js, .NET, or JavaScript** in general.
+- 📫 Reach me at **davidaderibigbe47@gmail.com**
+- 👨‍💻 Check out all my projects here:[dave-ad](https://github.com/dave-ad)
+<!-- - 💻 Passionate about crafting interactive, user-friendly websites. -->
 <!-- - ⚡ Fun fact I also love to listen to music while coding. -->
 </br>
 
@@ -67,7 +74,7 @@
 </p>
 
 <!-- Connect with me -->
-## **Connect with Me** ️
+## **Find me around the web** ️
 <p align="left">
 	<a href="https://twitter.com/_dave_ad" target="blank">
 		<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="Twitter" height="30" width="40" />
